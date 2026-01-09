@@ -1,3 +1,8 @@
-h1 {
-    color: red;
+* {
+    background-color: gray;
+}
+
+main {
+    width: 520px;
+    margin: 20px 20px 20px 20px;
 }
